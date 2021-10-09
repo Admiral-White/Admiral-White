@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Admiral-White
 - 👀 I’m interested in Java and Python
-- 🌱 I’m currently working with spring boot and Django for backend development
-- 💞️ I’m looking to collaborate on Java and Python related projects for now
+- 🌱 I’m currently working with spring boot, Django and .Net for backend development
+- 💞️ I’m looking to collaborate on Java, Python and C# related projects for now
 - 📫 How to reach me email: mikeinyang975@gmail.com and m.inyang@semicolon.africa
 
 
