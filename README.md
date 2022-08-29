@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Admiral-White
-- 👀 I’m interested in C#, Java and Python
-- 🌱 I’m currently working with spring boot, Django and .Net for backend development
-- 💞️ I’m looking to collaborate on Java, Python and C# related projects for now
-- 📫 How to reach me email: mikeinyang975@gmail.com and m.inyang@semicolon.africa
+- 👀 I’m interested in C#, Java and Python programming languages.
+- 🌱 I’m currently working with the following frameworks spring boot, Django and .Net for backend development.
+-     I'm a data scientist who harness the power of Python for data analysis, building machine learning models and A.I development. 
+- 💞️ I’m looking to collaborate on backend projects with the following languages Java, Python and C#.
+-     I'm open to data science roles ranging from teaching, mentoring and core analytics.
+-     I'm open to Artificial Intelligence projects (Deep learning, supervised and unsupervised learning).
+- 📫 How to reach me: mikeinyang975@gmail.com, https://twitter.com/michael_inyang, https://www.linkedin.com/in/michael-inyang-software-engineer/
 
 
 <!---
