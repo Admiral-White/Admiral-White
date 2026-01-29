@@ -5,7 +5,7 @@ I’m a **software engineer and problem-solver** with a strong passion for build
 
 ## 💻 Tech Stack & Expertise
 
-* 🔹 **Programming Languages:** C#, Java, Python
+* 🔹 **Programming Languages:** C#, Java, Python, JavaScript
 * 🔹 **Backend Frameworks:** Spring Boot, Django, ASP.NET Core
 * 🔹 **Cloud Platforms:** Azure ☁️ | AWS ☁️
 * 🔹 **Data & AI:** Hands-on experience in data analytics and artificial intelligence
